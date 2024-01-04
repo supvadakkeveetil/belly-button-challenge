@@ -7,10 +7,10 @@ Belly Button Biodiversity Dataset contains data on Microbes that colonize the hu
 
 ### Demographics
 ![ Dashboard
-](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/Dashboard.png)### Bar Chart
+](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/Dashboard.png)
+### Bar Chart
 ##### Horizontal Bar chart to display the Top 10 OTU's found in the individual selected
 ![Bar Chart for ID#941](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/Barchart.png)
-
 ### Bubble Chart
 ![ Bubble Chart for ID#941
 ](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/BubbleChart.png)### Deployment
