@@ -12,10 +12,12 @@ Belly Button Biodiversity Dataset contains data on Microbes that colonize the hu
 ### Bar Chart
 
 ##### Horizontal Bar chart to display the Top 10 OTU's found in the individual selected
-![Bar Chart](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/Barchart.png)
+![Bar Chart for ID#941](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/Barchart.png)
+
 ### Bubble Chart
 
-### Deployment
+![ Bubble Chart for ID#941
+](https://github.com/supvadakkeveetil/belly-button-challenge/blob/main/Output/BubbleChart.png)### Deployment
 
 ### References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
